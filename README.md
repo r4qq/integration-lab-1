@@ -1,5 +1,6 @@
 # Integracja systemów informatyczneych - lab1
 testlocal
+testgithub
 **Celem laboratorium jest panowanie systemu kontroli wersji Git, platformy GitHub oraz przygotowanie lokalnego środowiska programistycznego (Django)** 
 
 **Wymagania ogólne:** 
